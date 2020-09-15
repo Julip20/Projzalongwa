@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T12:59:48.779Z" agent="5.0 (X11)" etag="SI2Oh2_iuoh3aEITpg6V" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T13:10:41.156Z" agent="5.0 (X11)" etag="MXPUt_PGppTRis789YJ-" version="13.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1628" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,13 +92,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWQ1Vc6F2KM3875V181T-69" value="Print Valuation Report" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="233.5" y="560" width="120" height="50" as="geometry" />
+          <mxGeometry x="234" y="540" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AWQ1Vc6F2KM3875V181T-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWQ1Vc6F2KM3875V181T-72" target="AWQ1Vc6F2KM3875V181T-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWQ1Vc6F2KM3875V181T-72" value="Sales" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="650" width="117.5" height="60" as="geometry" />
+          <mxGeometry x="235" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AWQ1Vc6F2KM3875V181T-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWQ1Vc6F2KM3875V181T-76" target="AWQ1Vc6F2KM3875V181T-78">
           <mxGeometry relative="1" as="geometry" />
@@ -213,9 +213,6 @@
         </mxCell>
         <mxCell id="AWQ1Vc6F2KM3875V181T-132" value="Inventory" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="387.5" width="110" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="AWQ1Vc6F2KM3875V181T-135" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
